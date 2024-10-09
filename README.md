@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   <samp>
-    I am a software engineer with a passion for learning. I am interested in mathematics and artificial intelligence. When I'm not reading you can find me training for my next triathlon or expressing myself through music.
+    I am not my profession but I do like writing software and I have a passion for learning. I am interested in mathematics and artificial intelligence. When I'm not reading you can find me training for my next triathlon or expressing myself through music.
   </samp>
 </p>
 
