@@ -11,7 +11,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://blog.tonkatsuengineering.com">blog</a> .
+    <a href="https://blog.gnakayama.me">blog</a> .
     <a href="https://www.linkedin.com/in/guilherme-nakayama/">linkedin</a> .
     <a href="mailto:guilherme.nakayama.s@gmail.com">email</a> .
   </samp>
